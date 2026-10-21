@@ -360,7 +360,6 @@ Enter elements separated by spaces: 10 20 30 40 50
 ```
 
 The resulting NumPy array will be:
-
 ```text
 [10 2]()
 ```
